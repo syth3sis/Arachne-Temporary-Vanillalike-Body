@@ -1,3 +1,3 @@
 To use this mod :
-copy the folder to
-steamapps\common\RimWorld\Mods
+/n copy the folder to
+/n steamapps\common\RimWorld\Mods
