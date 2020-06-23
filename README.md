@@ -1,3 +1,3 @@
 To use this mod :
-/n copy the folder to
-/n steamapps\common\RimWorld\Mods
+copy the folder to (requires arachne mod)
+steamapps\common\RimWorld\Mods
