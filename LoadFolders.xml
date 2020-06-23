@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<loadFolders>
+    <default>
+    </default>
+    <v1.1>
+        <li IfModActive="AR13S.Arachne1point0">ArachneVanillaLikeBody</li>
+    </v1.1>
+</loadFolders>

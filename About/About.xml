@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Arachne Body Graphic Replacement</name>
+  <author>moronic</author>
+  <packageId>AR13S.ArachneVanillaLikeBody</packageId>
+  <description>
+    For Arachne Temporary 1.1 Mod
+    Arachne vanilla-like body graphic replacement
+  </description>
+  <url/>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>erdelf.HumanoidAlienRaces</packageId>
+      <displayName>Humanoid Alien Races 2.0</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=839005762</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>AR13S.Arachne1point0</packageId>
+      <displayName>Arachne Race</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2006644524</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadBefore/>
+  <loadAfter>
+    <li>erdelf.HumanoidAlienRaces</li>
+    <li>neronix17.toolbox</li>
+    <li>goudaquiche.BloodAndStains</li>
+    <li>AR13S.Arachne1point0</li>
+  </loadAfter>
+  <incompatibleWith />
+</ModMetaData>
